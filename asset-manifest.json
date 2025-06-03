@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/englishcoachingacademy/static/css/main.f855e6bc.css",
-    "main.js": "/englishcoachingacademy/static/js/main.6192e395.js",
-    "static/js/453.8ab44547.chunk.js": "/englishcoachingacademy/static/js/453.8ab44547.chunk.js",
-    "static/media/logo.svg": "/englishcoachingacademy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/englishcoachingacademy/static/css/main.9592a7e5.css",
+    "main.js": "/englishcoachingacademy/static/js/main.5c183e22.js",
     "index.html": "/englishcoachingacademy/index.html",
-    "main.f855e6bc.css.map": "/englishcoachingacademy/static/css/main.f855e6bc.css.map",
-    "main.6192e395.js.map": "/englishcoachingacademy/static/js/main.6192e395.js.map",
-    "453.8ab44547.chunk.js.map": "/englishcoachingacademy/static/js/453.8ab44547.chunk.js.map"
+    "main.9592a7e5.css.map": "/englishcoachingacademy/static/css/main.9592a7e5.css.map",
+    "main.5c183e22.js.map": "/englishcoachingacademy/static/js/main.5c183e22.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6192e395.js"
+    "static/css/main.9592a7e5.css",
+    "static/js/main.5c183e22.js"
   ]
 }
